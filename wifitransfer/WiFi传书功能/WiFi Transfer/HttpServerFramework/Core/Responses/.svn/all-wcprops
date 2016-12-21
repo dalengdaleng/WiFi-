@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses
+END
+HTTPAsyncFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPAsyncFileResponse.h
+END
+HTTPDataResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPDataResponse.m
+END
+HTTPFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPFileResponse.h
+END
+HTTPRedirectResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPRedirectResponse.h
+END
+DELETEResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/DELETEResponse.h
+END
+HTTPAsyncFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPAsyncFileResponse.m
+END
+HTTPFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPFileResponse.m
+END
+HTTPDynamicFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPDynamicFileResponse.h
+END
+HTTPRedirectResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPRedirectResponse.m
+END
+DELETEResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/DELETEResponse.m
+END
+HTTPDynamicFileResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPDynamicFileResponse.m
+END
+HTTPDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Responses/HTTPDataResponse.h
+END

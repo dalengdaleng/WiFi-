@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers
+END
+DDLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/DDLog.h
+END
+MultipartFormDataParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/MultipartFormDataParser.h
+END
+HTTPResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPResponse.h
+END
+HTTPFileResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPFileResponse.h
+END
+HTTPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPConnection.h
+END
+MultipartMessageHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/MultipartMessageHeader.h
+END
+DELETEResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/DELETEResponse.h
+END
+MultipartMessageHeaderField.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/MultipartMessageHeaderField.h
+END
+HTTPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPMessage.h
+END
+HTTPLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPLogging.h
+END
+HTTPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPServer.h
+END
+HTTPDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/HTTPDataResponse.h
+END
+DDTTYLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/44020/trunk/code/iOS/IPAD_ProtocolOptimize/Frameworks/HttpServerFramework.framework/Versions/A/Headers/DDTTYLogger.h
+END

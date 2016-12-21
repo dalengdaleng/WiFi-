@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime
+END
+MultipartFormDataParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartFormDataParser.h
+END
+MultipartMessageHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartMessageHeader.h
+END
+MultipartFormDataParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartFormDataParser.m
+END
+MultipartMessageHeaderField.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartMessageHeaderField.h
+END
+MultipartMessageHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartMessageHeader.m
+END
+MultipartMessageHeaderField.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/Mime/MultipartMessageHeaderField.m
+END

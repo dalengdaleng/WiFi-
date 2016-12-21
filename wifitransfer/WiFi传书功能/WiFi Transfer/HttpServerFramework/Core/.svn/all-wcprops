@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core
+END
+HTTPMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPMessage.m
+END
+HTTPServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPServer.m
+END
+WebSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/WebSocket.m
+END
+HTTPAuthenticationRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPAuthenticationRequest.m
+END
+HTTPResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPResponse.h
+END
+HTTPConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPConnection.h
+END
+HTTPConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPConnection.m
+END
+HTTPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPMessage.h
+END
+HTTPLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPLogging.h
+END
+HTTPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPServer.h
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/WebSocket.h
+END
+HTTPAuthenticationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Core/HTTPAuthenticationRequest.h
+END

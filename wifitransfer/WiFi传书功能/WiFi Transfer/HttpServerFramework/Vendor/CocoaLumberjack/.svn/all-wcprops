@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack
+END
+DDLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDLog.h
+END
+DDFileLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDFileLogger.m
+END
+DDASLLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDASLLogger.m
+END
+DDTTYLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDTTYLogger.m
+END
+DDLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDLog.m
+END
+DDAbstractDatabaseLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.h
+END
+About.txt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/About.txt
+END
+DDAbstractDatabaseLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.m
+END
+DDFileLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDFileLogger.h
+END
+DDASLLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDASLLogger.h
+END
+DDTTYLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/mag_pris_mobile/!svn/ver/52935/trunk/code/iOS/IPAD_ProtocolOptimize/DataEngine/Framework/HttpServerFramework/Vendor/CocoaLumberjack/DDTTYLogger.h
+END
